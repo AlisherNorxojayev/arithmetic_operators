@@ -7,6 +7,6 @@ void main() {
   print(func(2, 4));
 }
 
-double func(int a, int b) {
+num func(int a, int b) {
   return (2 * ((pow(a, b)) / (a + b)));
 }

@@ -4,7 +4,7 @@
 import 'dart:math';
 
 void main() {
-  print(func(1, 11, 3));
+  print(func(2, 6, 4));
 }
 
 num func(int a, int b, int c) {
