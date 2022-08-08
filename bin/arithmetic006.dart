@@ -4,7 +4,7 @@
 import 'dart:math';
 
 void main() {
-  func(2, 2);
+  func(2, 8);
 }
 
 int func(int a, int b) {
